@@ -1,0 +1,94 @@
+
+
+.girl {
+    width: 65%;
+    height: auto;
+
+  }
+
+
+#title{
+    background-color:#ea728c;
+    font-size: 150%;
+  }
+
+
+  
+#h1{
+  font-family: 'Anton', sans-serif;
+  font-size: 90px;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+
+
+#button{
+  margin-left:36px;
+  font-size:30px;
+}
+
+#navbar-brand{
+  padding-left: 30px;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: ubuntu;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.features-box{
+  text-align:center;
+}
+
+h3{
+  font-family:"Anton";
+}
+
+p{
+  color: #8f8f8f;
+}
+
+.fa-3x{
+  padding-bottom: 20px;
+  color: #ea728c;
+}
+
+.fa-3x:hover{
+  padding-bottom: 20px;
+  color:#f1d1d1;
+}
+
+
+#testimonials{
+
+  color:#fff;
+  background-color: #fa9191;
+  
+}
+
+#h2{
+  font-size: 40px;
+  font-family: Montserrat;
+  text-align: center;
+}
+
+.cat{
+  width: 20%;
+  border-radius: 100%;
+  margin-left: 400px;
+}
+
+.carousel-item{
+  padding: 7% 14%;
+}
+
+#pricing{
+  padding: 100px;
+}
+
+#plan{
+  font-size: 60px;
+  font-family:Anton;
+}
